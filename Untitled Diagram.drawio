@@ -367,11 +367,12 @@
         <mxCell id="srRfTzQ2wNrr3aea_epK-53" value="Become Friends with&amp;nbsp;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="560" y="184.5" width="100" height="81.5" as="geometry" />
         </mxCell>
-        <mxCell id="srRfTzQ2wNrr3aea_epK-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=ERzeroToMany;endFill=0;entryX=1.017;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="srRfTzQ2wNrr3aea_epK-54" target="9mGKXTDG_qa7bDeS5Nxo-1">
+        <mxCell id="srRfTzQ2wNrr3aea_epK-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=ERzeroToMany;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="300" as="targetPoint" />
+            <mxPoint x="450" y="369.5" as="sourcePoint" />
+            <mxPoint x="347" y="300.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="390" y="298" />
+              <mxPoint x="450" y="300.5" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -384,7 +385,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="srRfTzQ2wNrr3aea_epK-54" value="Become friends with Other Artist" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="310" y="319" width="160" height="80" as="geometry" />
+          <mxGeometry x="290" y="319" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="srRfTzQ2wNrr3aea_epK-55" value="Follow Artist" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="590" y="259" width="120" height="60" as="geometry" />
