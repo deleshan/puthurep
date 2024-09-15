@@ -378,14 +378,15 @@
         </mxCell>
         <mxCell id="srRfTzQ2wNrr3aea_epK-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=ERzeroToMany;endFill=0;" edge="1" parent="1" source="srRfTzQ2wNrr3aea_epK-54" target="9mGKXTDG_qa7bDeS5Nxo-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="330" as="targetPoint" />
+            <mxPoint x="320" y="310" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="287" y="359" />
+              <mxPoint x="340" y="359" />
+              <mxPoint x="320" y="359" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="srRfTzQ2wNrr3aea_epK-54" value="Become friends with Other Artist" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="290" y="319" width="160" height="80" as="geometry" />
+          <mxGeometry x="340" y="319" width="110" height="111" as="geometry" />
         </mxCell>
         <mxCell id="srRfTzQ2wNrr3aea_epK-55" value="Follow Artist" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="590" y="259" width="120" height="60" as="geometry" />
@@ -478,11 +479,16 @@
         <mxCell id="srRfTzQ2wNrr3aea_epK-109" value="Upgrade" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="218.5" y="578.9300000000001" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="srRfTzQ2wNrr3aea_epK-113" value="Associative&#xa;Entity" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="510" y="520" width="140" height="60" as="geometry" />
+        <mxCell id="srRfTzQ2wNrr3aea_epK-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="srRfTzQ2wNrr3aea_epK-113">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="srRfTzQ2wNrr3aea_epK-113" value="Comments" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="530" y="520" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="srRfTzQ2wNrr3aea_epK-114" value="IS A" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="760" y="555" width="95" height="65" as="geometry" />
+          <mxGeometry x="780" y="573.93" width="95" height="65" as="geometry" />
         </mxCell>
         <mxCell id="srRfTzQ2wNrr3aea_epK-115" value="Articles" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="870" y="710" width="100" height="40" as="geometry" />
